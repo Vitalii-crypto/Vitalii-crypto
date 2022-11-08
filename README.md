@@ -15,7 +15,7 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitalii-crypto&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Vitalii-crypto/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalii-crypto&ayout=compact&theme=tokyonight)](https://github.com/Vitalii-crypto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalii-crypto&layout=compact&theme=tokyonight)](https://github.com/Vitalii-crypto/github-readme-stats)
 
 [![Recent](https://activity-graph.herokuapp.com/graph?username=Vitalii-crypto&amp;theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=Vitalii-crypto&amp;theme=react-dark)
 <h3>Visitors Count</h3>
