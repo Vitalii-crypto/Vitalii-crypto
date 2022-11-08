@@ -9,9 +9,8 @@
 
 
 - 🌱 I’m currently learning graphQL and React Native development
-- 💬 Ask me about react-native, Codepush, Appcenter, Firestore
+- 💬 Ask me about react-native, Apollo, Graphql
 - 📫 How to reach me: Email- vitalii.apostolyuk@gmail.com LinkedIn- [Vitalii Apostolyuk](https://www.linkedin.com/in/vitalii-apostolyuk-a11545239/)
-- 😄 Pronouns: He/Him
 <div align='center'>
 
 <!-- ![contribution-graph](https://github.com/Abhinandan-Kushwaha/Abhinandan-Kushwaha/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only) -->
@@ -19,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalii-crypto&layout=compact&theme=tokyonight)](https://github.com/Vitalii-crypto/github-readme-stats)
 
-[![Recent](https://activity-graph.herokuapp.com/graph?username=Vitalii-crypto&amp;theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=Abhinandan-Kushwaha&amp;theme=react-dark)
+[![Recent](https://activity-graph.herokuapp.com/graph?username=Vitalii-crypto&amp;theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=Vitalii-crypto&amp;theme=react-dark)
 <h3>Visitors Count</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{Vitalii-crypto}/count.svg)
