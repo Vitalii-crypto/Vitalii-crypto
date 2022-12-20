@@ -1,4 +1,4 @@
-🌱 Working at [Tauroks](https://www.linkedin.com/company/tauroks/about/)<br>
+🌱 React Native Developer at [Tauroks](https://www.linkedin.com/company/tauroks/about/)<br>
 📚 Learning GraphQL and Type Script<br>
 💬 Ask me about react-native, Apollo, Graphql
 
