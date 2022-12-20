@@ -1,4 +1,4 @@
-🌱 Working at [Tauroks(https://www.linkedin.com/company/tauroks/about/)]<br>
+🌱 Working at Tauroks(https://www.linkedin.com/company/tauroks/about/)<br>
 📚 I’m currently learning graphQL and React Native development<br>
 💬 Ask me about react-native, Apollo, Graphql
 
