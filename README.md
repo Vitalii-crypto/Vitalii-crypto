@@ -1,6 +1,4 @@
-# 💫 About Me:
-🌱 I’m currently learning graphQL and React Native development<br>💬 Ask me about react-native, Apollo, Graphql<br>📫 How to reach me: Email- vitalii.apostolyuk@gmail.com LinkedIn- Vitalii Apostolyuk
-
+🌱 I’m currently learning graphQL and React Native development<br>💬 Ask me about react-native, Apollo, Graphql
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Oxypie#4217) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-apostolyuk-a11545239/) 
