@@ -1,5 +1,5 @@
 🌱 Working at [Tauroks](https://www.linkedin.com/company/tauroks/about/)<br>
-📚 I’m currently learning graphQL and React Native development<br>
+📚 Learning GraphQL and Type Script<br>
 💬 Ask me about react-native, Apollo, Graphql
 
 ## 🌐 Socials:
