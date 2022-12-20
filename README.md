@@ -1,26 +1,23 @@
-<div align='center'>
-<h3>
-  Hi there I'm Vitalii Apostolyuk
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-</h3>
-</div>
-
-<b>I'm a React Native developer working at [Tauroks](https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Aorganization%3A86809269&keywords=tauroks&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=77e6c85b-74d2-46fa-a3e1-2bf435519789&sid=jxy)</b>
+# 💫 About Me:
+🌱 I’m currently learning graphQL and React Native development<br>💬 Ask me about react-native, Apollo, Graphql<br>📫 How to reach me: Email- vitalii.apostolyuk@gmail.com LinkedIn- Vitalii Apostolyuk
 
 
-- 🌱 I’m currently learning graphQL and React Native development
-- 💬 Ask me about react-native, Apollo, Graphql
-- 📫 How to reach me: Email- vitalii.apostolyuk@gmail.com LinkedIn- [Vitalii Apostolyuk](https://www.linkedin.com/in/vitalii-apostolyuk-a11545239/)
-<div align='center'>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Oxypie#4217) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-apostolyuk-a11545239/) 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitalii-crypto&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Vitalii-crypto/github-readme-stats)
+# 💻 Tech Stack:
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vitalii-crypto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vitalii-crypto&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalii-crypto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalii-crypto&layout=compact&theme=tokyonight)](https://github.com/Vitalii-crypto/github-readme-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vitalii-crypto&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-[![Recent](https://activity-graph.herokuapp.com/graph?username=Vitalii-crypto&amp;theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=Vitalii-crypto&amp;theme=react-dark)
-<h3>Visitors Count</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Visitor Count](https://profile-counter.glitch.me/{Vitalii-crypto}/count.svg)
+---
+[![](https://visitcount.itsvg.in/api?id=Vitalii-crypto&icon=2&color=0)](https://visitcount.itsvg.in)
 
-“There is an easy way and a hard way. The hard part is finding the easy way.”
-  </div>
