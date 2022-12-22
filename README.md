@@ -1,3 +1,10 @@
+<style>
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+</style>
 🌱 React Native Developer at [Tauroks](https://www.linkedin.com/company/tauroks/about/)<br>
 📚 Learning GraphQL and Type Script<br>
 💬 Ask me about react-native, Apollo, Graphql
@@ -30,11 +37,11 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 # 📊 GitHub Stats:
-<!-- <div style="display:flex, flex-direction: column, align-items: center"> -->
+<div class="center">
 ![](https://github-readme-stats.vercel.app/api?username=Vitalii-crypto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&PAT_1)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vitalii-crypto&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitalii-crypto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&PAT_1)
-<!-- </div> -->
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vitalii-crypto&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
