@@ -1,7 +1,5 @@
-🌱 Full Stack Developer<br>
+🇨🇦 Full Stack Developer<br>
 
-## 🌐 Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-apostolyuk-a11545239/) 
 
 # 💻 Tech Stack:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
